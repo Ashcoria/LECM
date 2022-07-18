@@ -1,0 +1,63 @@
+ideas = {
+
+	country = {
+
+		FRA_1874_charter = {
+			picture = FRA_1874_charter
+			allowed = {
+				original_tag = FRA
+				always = no
+			}
+	
+			removal_cost = -1
+			
+			modifier = {
+				stability_factor = 0.10
+			}
+		}
+
+		FRA_bloated_nobility = {
+			picture = FRA_bloated_nobility
+			allowed = {
+				original_tag = FRA
+				always = no
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+				political_power_gain = -0.10
+			}
+		}
+
+		FRA_political_divide = {
+			picture = FRA_political_divide
+			allowed = {
+				original_tag = FRA
+				always = no
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+				political_power_factor = -0.15
+			}
+		}
+
+		FRA_military_glory = {
+			picture = FRA_military_glory
+			allowed = {
+				original_tag = FRA
+				always = no
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+				mobilization_speed = 0.05
+				army_morale_factor = 0.10
+				war_support_factor = 0.10
+			}
+		}
+	}	
+}
