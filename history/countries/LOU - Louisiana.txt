@@ -1,0 +1,49 @@
+capital = 371
+
+oob = "LOU_1936"
+
+set_research_slots = 3
+
+#Starting tech
+
+ set_technology = {
+	 
+	 
+	 
+	 		
+	tech_engineers = 1
+	 
+}
+add_ideas = {
+	
+}
+
+FRA = {
+	set_autonomy = {
+		target = LOU
+		autonomous_state = autonomy_dominion
+		freedom_level = 0.4
+	}
+}
+
+set_politics = {
+	ruling_party = monarchism
+	last_election = "1935.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	monarchism = 70
+	constitutionalism = 25
+	absolutism = 5
+}
+
+create_country_leader = {
+	name = "Jean Jules Jusserand"
+	picture = "gfx/leaders/LOU/Portrait_Louisiana_JeanJulesJusserand.png"
+	expire = "1965.1.1"
+	ideology = monarchism_subtype
+}
+
+
+#Create military leader -
