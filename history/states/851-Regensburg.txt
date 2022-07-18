@@ -1,0 +1,24 @@
+state={
+	id=851
+	name="STATE_851"
+	provinces={
+		9515 
+	}
+	manpower= 52600
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=town
+
+	history={
+		owner = BAY
+		victory_points = {
+			9515 5 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+		add_core_of = BAY
+	}
+
+}

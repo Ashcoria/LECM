@@ -1,0 +1,24 @@
+state={
+	id=856
+	name="STATE_856"
+	provinces={
+		6487 9560 
+	}
+	manpower= 331000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=city
+
+	history={
+		owner = ANH
+		victory_points = {
+			9560 5 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+		}
+		add_core_of = ANH
+	}
+
+}

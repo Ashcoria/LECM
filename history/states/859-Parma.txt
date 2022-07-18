@@ -1,0 +1,24 @@
+state={
+	id=859
+	name="STATE_859"
+	provinces={
+		3773 3976 6790 9752 
+	}
+		manpower= 70000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=city
+
+	history={
+		owner = PRM
+		victory_points = {
+			6790 5 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+		add_core_of = PRM
+	}
+
+}

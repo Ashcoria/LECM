@@ -1,0 +1,22 @@
+state={
+	id=877
+	name="STATE_877"
+	provinces={
+		4603 
+	}
+manpower= 5000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=rural
+
+	history={
+		owner = SAU
+		buildings = {
+			infrastructure = 0
+			industrial_complex = 1
+		}
+		add_core_of = JOR
+		add_core_of = SAU
+	}
+
+}

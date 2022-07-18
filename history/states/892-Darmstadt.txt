@@ -1,0 +1,27 @@
+state={
+	id=892
+	name="STATE_892"
+
+	history={
+		victory_points = {
+			589 2
+		}
+		owner = HED
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+
+		}
+		add_core_of = HED
+
+	}
+
+	provinces={
+		589 
+	}
+	manpower=100000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=city
+
+}

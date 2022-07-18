@@ -1,0 +1,27 @@
+state={
+	id=895
+	name="STATE_895"
+
+	history={
+		victory_points = {
+			3561 5
+		}
+
+		owner = SCG
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+
+		}
+		add_core_of = SCG
+
+	}
+	provinces={
+		3561 
+	}
+	manpower=100000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=city
+
+}

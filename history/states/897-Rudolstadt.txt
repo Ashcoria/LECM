@@ -1,0 +1,26 @@
+state={
+	id=897
+	name="STATE_897"
+
+	history={
+		victory_points = {
+			6524 5
+		}
+
+		owner = SCR
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+
+		}
+		add_core_of = SCR
+
+	}
+	provinces={
+		6524 
+	}
+	manpower=14000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=town
+}

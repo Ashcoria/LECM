@@ -1,0 +1,22 @@
+state={
+	id=884
+	name="STATE_884"
+	provinces={
+		7548 
+	}
+	manpower= 500000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=wasteland
+
+	history={
+		owner = DEN
+		buildings = {
+			infrastructure = 0
+			industrial_complex = 1
+		}
+		add_core_of = ANG
+	}
+
+}
+

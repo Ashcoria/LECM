@@ -1,0 +1,21 @@
+state={
+	id=869
+	name="STATE_869"
+	provinces={
+		5216 10960 12917 
+	}
+		manpower= 9000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=rural
+
+	history={
+		owner = BOL
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+		}
+		add_core_of = BRA
+	}
+
+}

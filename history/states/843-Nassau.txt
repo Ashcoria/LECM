@@ -1,0 +1,24 @@
+state={
+	id=843
+	name="STATE_843"
+	provinces={
+		3398 6444 9443 9486 9547 
+	}
+	manpower= 20000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=town
+
+	history={
+		owner = NAS
+		victory_points = {
+			6444 5 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+		}
+		add_core_of = NAS
+	}
+
+}

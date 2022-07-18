@@ -1,0 +1,24 @@
+state={
+	id=850
+	name="STATE_850"
+	provinces={
+		708 
+	}
+	manpower= 95000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=city
+
+	history={
+		owner = BAY
+		victory_points = {
+			708 5 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+		}
+		add_core_of = BAY
+	}
+
+}

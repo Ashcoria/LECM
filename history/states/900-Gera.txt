@@ -1,0 +1,27 @@
+state={
+	id=900
+	name="STATE_900"
+
+	history={
+		victory_points = {
+			538 5
+		}
+
+		owner = REG
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+
+		}
+		add_core_of = REG
+
+	}
+
+	provinces={
+		538 
+	}
+	manpower=50000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=town
+}

@@ -1,0 +1,24 @@
+state={
+	id=855
+	name="STATE_855"
+	provinces={
+		561 6540 11529 
+	}
+	manpower= 30000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=town
+
+	history={
+		owner = PRE
+		victory_points = {
+			561 5 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+		add_core_of = PRE
+	}
+
+}

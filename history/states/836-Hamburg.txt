@@ -1,0 +1,25 @@
+state={
+	id=836
+	name="STATE_836"
+	provinces={
+		9347 
+	}
+	manpower= 931000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=large_city
+
+	history={
+		owner = HAM
+		victory_points = {
+			9347 5 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+		}
+
+		add_core_of = HAM
+	}
+
+}

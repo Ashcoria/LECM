@@ -1,0 +1,22 @@
+state={
+	id=880
+	name="STATE_880"
+	provinces={
+		10884 
+	}
+manpower= 10000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=wasteland
+
+	history={
+		owner = FRA
+		buildings = {
+			infrastructure = 0
+			industrial_complex = 1
+		}
+		add_core_of = LBA
+	}
+
+}
+

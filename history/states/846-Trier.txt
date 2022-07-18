@@ -1,0 +1,24 @@
+state={
+	id=846
+	name="STATE_846"
+	provinces={
+		3547 9522 9575 11435 11470 11494 
+	}
+	manpower= 70000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=city
+
+	history={
+		owner = TRR
+		victory_points = {
+			9575 5 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+		}
+		add_core_of = TRR
+	}
+
+}

@@ -1,0 +1,28 @@
+
+state={
+	id=816
+	name="STATE_816"
+
+	history={
+		owner = LOU
+		add_core_of = LOU
+		buildings = {
+			industrial_complex = 2
+			infrastructure = 3
+			air_base = 3
+
+		}
+		victory_points = {
+			7588 3 
+		}
+
+	}
+
+	provinces={
+		801 913 968 3941 3975 4627 5090 6971 7466 7558 7588 7643 7646 7791 8014 9779 9923 9967 10441 10468 10495 10909 12803 
+	}
+	manpower=1901974
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

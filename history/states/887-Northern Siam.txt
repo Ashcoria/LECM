@@ -1,0 +1,25 @@
+state={
+	id=887
+	name="STATE_887"
+	provinces={
+		1253 1488 1990 4496 7312 7492 7531 7675 8045 10371 
+	}
+	manpower= 4000000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=wasteland
+
+	history={
+		owner = FRA
+		victory_points = {
+			1253 10 
+		}
+		buildings = {
+			infrastructure = 0
+			industrial_complex = 1
+		}
+		add_core_of = SIA
+	}
+
+}
+

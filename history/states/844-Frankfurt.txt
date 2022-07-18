@@ -1,0 +1,24 @@
+state={
+	id=844
+	name="STATE_844"
+	provinces={
+		6488 
+	}
+	manpower= 414000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=city
+
+	history={
+		owner = FRK
+		victory_points = {
+			6488 5 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+		}
+		add_core_of = FRK
+	}
+
+}

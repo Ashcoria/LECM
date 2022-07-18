@@ -1,0 +1,26 @@
+state={
+	id=894
+	name="STATE_894"
+
+	history={
+		victory_points = {
+			425 2
+		}
+		owner = SWR
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+
+		}
+		add_core_of = SWR
+
+	}
+	provinces={
+		425 
+	}
+	manpower=53000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=city
+
+}

@@ -1,0 +1,24 @@
+state={
+	id=871
+	name="STATE_871"
+	provinces={
+		733 3712 3715 10481 
+	}
+		manpower= 431000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=rural
+
+	history={
+		owner = USA
+		victory_points = {
+			3715 30
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+		add_core_of = USA
+	}
+
+}

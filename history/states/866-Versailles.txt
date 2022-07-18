@@ -1,0 +1,25 @@
+state={
+	id=866
+	name="STATE_866"
+	provinces={
+		9523 
+	}
+	manpower= 500000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=city
+
+	history={
+		owner = FRA
+		victory_points = {
+			9523 30
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+		}
+		add_core_of = FRA
+	}
+
+}
+

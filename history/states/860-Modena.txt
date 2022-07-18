@@ -1,0 +1,24 @@
+state={
+	id=860
+	name="STATE_860"
+	provinces={
+		6606 6973 6985 
+	}
+		manpower= 100000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=city
+
+	history={
+		owner = MDN
+		victory_points = {
+			6606 5 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+		add_core_of = MDN
+	}
+
+}

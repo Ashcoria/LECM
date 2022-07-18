@@ -1,0 +1,24 @@
+state={
+	id=842
+	name="STATE_842"
+	provinces={
+		3535 6559 6582 9441 9471 11481 11545 
+	}
+	manpower= 2000000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=megalopolis
+
+	history={
+		owner = SAX
+		victory_points = {
+			3535 5 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+		}
+		add_core_of = SAX
+	}
+
+}

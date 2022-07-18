@@ -1,0 +1,24 @@
+state={
+	id=849
+	name="STATE_849"
+	provinces={
+		11499 
+	}
+	manpower= 75000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=city
+
+	history={
+		owner = WUR
+		victory_points = {
+			11499 5 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+		}
+		add_core_of = WUR
+	}
+
+}

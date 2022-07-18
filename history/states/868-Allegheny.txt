@@ -1,0 +1,24 @@
+state={
+	id=868
+	name="STATE_868"
+	provinces={
+		702 880 3850 3880 6823 6899 9789 9836 11648 11769 11789 12405 
+	}
+		manpower= 90000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=rural
+
+	history={
+		owner = LOU
+		victory_points = {
+			6899 2
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+		}
+		add_core_of = LOU
+	}
+
+}
