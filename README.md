@@ -1,3 +1,4 @@
+- Download Zip
 - Here are a few tips on where to put the files.
 - In your documents folder you should have a folder called "Paradox Interactive". 
 - Click on the folder and go to the "Hearts of Iron IV" folder. 
